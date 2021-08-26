@@ -1,0 +1,1 @@
+/home/digitaltwins/ws_moveit/src/digitalTwins_msgs/devel/.private/catkin_tools_prebuild/setup.bash

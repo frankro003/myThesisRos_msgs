@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/digitaltwins/ws_moveit/src/digitalTwins_msgs/install/setup.sh

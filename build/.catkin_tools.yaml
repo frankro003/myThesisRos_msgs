@@ -1,0 +1,6 @@
+devel_space: /home/digitaltwins/ws_moveit/src/digitalTwins_msgs/devel
+install: false
+install_space: /home/digitaltwins/ws_moveit/src/digitalTwins_msgs/install
+profile: default
+source_space: /home/digitaltwins/ws_moveit/src/digitalTwins_msgs/src
+workspace: /home/digitaltwins/ws_moveit/src/digitalTwins_msgs
